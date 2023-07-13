@@ -1,0 +1,9 @@
+
+### fake upload diary w/ photos
+POST https://reqres.in/api/diary
+    ?comments=test
+    &details=test
+    &event=1
+
+### fake events
+GET https://reqres.in/api/events
